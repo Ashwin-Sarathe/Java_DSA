@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class table {
     //Recursion
-    public static void t(int n, int i){
+    static void t(int n, int i){
         if(i>10) {
             return;
         }
