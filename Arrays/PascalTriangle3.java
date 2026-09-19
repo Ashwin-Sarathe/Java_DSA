@@ -1,6 +1,6 @@
 //Print whole Pascal Triangle till the given row
 import java.util.*;
-class Solution {
+class PascalTriangle3 {
     static List<Integer> generateRows(int rowInd) {
         int ans = 1;
         List<Integer> list = new ArrayList<>();
