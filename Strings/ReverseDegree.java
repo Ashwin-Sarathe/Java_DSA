@@ -1,4 +1,4 @@
-package Random;
+package Strings;
 //Reverse Degree of String
 //Sum of each char's reverse position + position in string (1-indexed) 
 
