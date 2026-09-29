@@ -1,6 +1,7 @@
 package Binary_Search;
 
 //Calc min no of bananas that koko should eat in an hr to finish all of them in the given hrs "h"
+//BS on Answers
 
 public class KokoEatingBananas {
         static long check(int[] piles, int mid, int n) {

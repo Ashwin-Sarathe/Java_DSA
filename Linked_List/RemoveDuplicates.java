@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //Remove Duplicates from an Unsorted LL
-public class ListNode {
+class ListNode {
   int val;
   ListNode next;
 
